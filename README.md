@@ -1,6 +1,7 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+name:Abdulbasit ibrahim
+matric: U23CS1051
+DEP:Computer science
 
 ## Getting Started
 
